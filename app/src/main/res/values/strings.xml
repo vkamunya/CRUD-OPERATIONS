@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DatabaseOperations</string>
+    <string name="admission_number">Admission Number</string>
+    <string name="name">Name</string>
+    <string name="create">CREATE</string>
+    <string name="read">READ</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+</resources>
